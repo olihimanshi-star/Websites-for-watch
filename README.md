@@ -1,0 +1,1 @@
+A group web development project focused on designing and developing an e-commerce website for watches. The website provides a clean and user-friendly interface for browsing different watch products and includes a homepage, product page, blog section, research/references section, and About Us page.
